@@ -4,14 +4,14 @@ This is a collection of notes/formula sheets to select courses I took as an unde
 
 ---
 
-**2019WT1**
+**2019 Winter Term 1**
 
 Course ID | Course Name | Instructor | Credits 
  ------------ | ------------ | ------------ | ------------
 MECH 260 | Introduction to Mechanics of Materials | Jasmin Jelovica | 3
 ELEC 204 | Linear Circuits | Shahriar Mirabbasi | 4
 
-**2020ST**
+**2020 Summer Term 1 & 2**
 
 Course ID | Course Name | Instructor | Credits 
  ------------ | ------------ | ------------ | ------------
@@ -20,7 +20,7 @@ ENPH 257 | Heat and Thermodynamics | Chris Waltham | 2
 ENPH 270 | Mechanics II | Michael Hassinoff | 2
 MATH 257 | Partial Differential Equations | Shamil Asgarli | 3
   
-**2020WT1**
+**2020 Winter Term 1**
 
 Course ID | Course Name | Instructor | Credits 
  ------------ | ------------ | ------------ | ------------
