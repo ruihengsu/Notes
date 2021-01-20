@@ -29,6 +29,15 @@ MATH 307 | Applied Linear Algebra | Markus Lange | 3
 ELEC 221 | Signals and Systems | Lutz Lampe | 3
 MECH 360 | Mechanics of Materials | Xiaoliang Jin | 3 
 
+**2020 Winter Term 2**
+
+Course ID | Course Name | Instructor | Credits 
+ ------------ | ------------ | ------------ | ------------
+PHYS 304 | Introduction to Quantum Mechanics | Ariel Zhitnitsky  | 3
+PHYS 350 | Applications of Classical Mechanics | Mona Berciu | 3
+MATH 305 | Applied Complex Analysis | Sven Bachmann | 3
+MECH 280 | Introduction to Fluid Mechanics | Ian Frigaard | 3 
+
 ---
 ## Schematics
 * Most schematics contained are found via online sources/from textbooks
